@@ -13,5 +13,8 @@
     "@babel/core": "^7.4.5",
     "@babel/node": "^7.4.5",
     "@babel/preset-env": "^7.4.5"
+  },
+  "overrides": {
+    "fast-xml-parser": ">=5.5.7"
   }
 }
